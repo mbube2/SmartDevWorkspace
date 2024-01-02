@@ -1,0 +1,2 @@
+# SmartDevWorkspace
+Training Class
